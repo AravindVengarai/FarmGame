@@ -1,0 +1,9 @@
+asd
+Normal
+80
+1
+Spring
+3,0
+7,0
+Corn
+null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
